@@ -437,3 +437,8 @@ hr {
 .footer-end-span {
     margin-left: 5px;
 }
+
+.hyperlink:hover {
+    cursor: pointer;
+    color: #F2BD00;
+}
